@@ -2,7 +2,7 @@
 
 I'm building **Share & Earn Lite**, a referral platform that helps local businesses grow through trusted word of mouth. Customers recommend a place to named friends on WhatsApp, and both earn a reward when the friend visits.
 
-For the Meta Global AI Developer Hackathon I'm planning to add Meta's Llama models to help customers write personal recommendations and help small business owners reply to feedback. See [share-and-earn-ai](https://github.com/bgSunil/share-and-earn-ai).
+For the Meta Global AI Developer Hackathon I'm planning to add Meta's AI models to help customers write personal recommendations and help small business owners reply to feedback. See [share-and-earn-ai](https://github.com/bgSunil/share-and-earn-ai).
 
 An earlier version of the idea was built in Flutter (Dart) and Firebase before I rebuilt it as a web app.
 
